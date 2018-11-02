@@ -21,34 +21,6 @@
     </item>
     
     <item>
-      <title>Zomaar om te kijken, nr 7</title>
-      <link>http://mermeu.github.io/posts/post7/</link>
-      <pubDate>Fri, 02 Nov 2018 22:58:58 +0100</pubDate>
-      
-      <guid>http://mermeu.github.io/posts/post7/</guid>
-      <description>Soms wil ik gewoon weten of het goed met je gaat.
-Hello? Is it me you&amp;rsquo;re looking for? Hello? Ben je ook blij? of niet</description>
-    </item>
-    
-    <item>
-      <title>weer een nieuwe test</title>
-      <link>http://mermeu.github.io/posts/test4/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://mermeu.github.io/posts/test4/</guid>
-      <description>Hallo! #Hallo! HALLO!</description>
-    </item>
-    
-    <item>
-      <title>HAHAHA, Hoe dan!?</title>
-      <link>http://mermeu.github.io/posts/test5/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://mermeu.github.io/posts/test5/</guid>
-      <description>How to configure your Hugo site. Hugo uses the config.toml, config.yaml, or config.json (if found in the site root) as the default site config file. The user can choose to override that default with one or more site config files using the command line &amp;ndash;config switch.</description>
-    </item>
-    
-    <item>
       <title>Week 2 dag 2</title>
       <link>http://mermeu.github.io/posts/week-2-dag-2/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
@@ -78,22 +50,34 @@ Tips:  maak dingen concreet schrijf ze uit -&amp;gt; hoe voer je het uit? commun
     </item>
     
     <item>
+      <title>Ontwerpproces</title>
+      <link>http://mermeu.github.io/posts/1t-ontwerpproces/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://mermeu.github.io/posts/1t-ontwerpproces/</guid>
+      <description>Veel geleerd in het eerste blok van theory over het ontwerpproces.
+What is design? We opende het eerste hoorcollege met een aantal filosofische vraagstukken, zoals wat vormgeving is en wie er een ontwerper genoemd zou kunnen worden.
+ Vormgeving onderscheid zich van kunst omdat een ontwerp gericht is op een gebruiker en gemaakte keuzes gebaseerd zijn op objectieve, meetbare feiten.
+ Design is an ability Het is een vaardigheid, die je kunt ontwikkelen.</description>
+    </item>
+    
+    <item>
+      <title>Hallo wereld!</title>
+      <link>http://mermeu.github.io/posts/1-hallo-wereld/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://mermeu.github.io/posts/1-hallo-wereld/</guid>
+      <description>Oké, dit is dus mijn allereerste post op deze blog en ook mijn allereerste post ooit die ik via Hugo maak. Ik heb op school de opdracht gekregen om een blog op te zetten om de rest van het schooljaar mijn voortgang te kunnen delen.
+Ik weet nog niet precies hoe ik wil dat er uit komt te zien. Ik wil mijn ontwikkeling aan anderen kunnen laten zien, maar nog meer om het voor mezelf zichtbaar te maken.</description>
+    </item>
+    
+    <item>
       <title>Halverwege week 1</title>
       <link>http://mermeu.github.io/posts/week-1/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>http://mermeu.github.io/posts/week-1/</guid>
       <description>Blegh, regen… Ik wilde liever niet naar school fietsen (de hele tijd regen), dus ik maar wachten thuis tot het droog werd. Werd het niet, ik maar door de regen. Nat de les in, bah, maar ja, niets aan te doen he. Dus maar geluisterd naar de presentatie, die ik me nu al niet meer kan herinneren. En Connor ook niet. Hij weet nog een dia van wat je in moest leveren.</description>
-    </item>
-    
-    <item>
-      <title>Hallo wereld!</title>
-      <link>http://mermeu.github.io/posts/hallo-wereld/</link>
-      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://mermeu.github.io/posts/hallo-wereld/</guid>
-      <description>Oké, dit is dus mijn allereerste post op deze blog en ook mijn allereerste post ooit die ik via Hugo maak. Ik heb op school de opdracht gekregen om een blog op te zetten om de rest van het schooljaar mijn voortgang te kunnen delen.
-Ik weet nog niet precies hoe ik wil dat er uit komt te zien. Ik wil mijn ontwikkeling aan anderen kunnen laten zien, maar nog meer om het voor mezelf zichtbaar te maken.</description>
     </item>
     
     <item>

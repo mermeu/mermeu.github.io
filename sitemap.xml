@@ -8,21 +8,6 @@
   </url>
   
   <url>
-    <loc>http://mermeu.github.io/posts/post7/</loc>
-    <lastmod>2018-11-02T22:58:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mermeu.github.io/posts/test4/</loc>
-    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mermeu.github.io/posts/test5/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://mermeu.github.io/about/</loc>
   </url>
   
@@ -42,12 +27,17 @@
   </url>
   
   <url>
-    <loc>http://mermeu.github.io/posts/week-1/</loc>
+    <loc>http://mermeu.github.io/posts/1t-ontwerpproces/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mermeu.github.io/posts/1-hallo-wereld/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mermeu.github.io/posts/hallo-wereld/</loc>
+    <loc>http://mermeu.github.io/posts/week-1/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -75,7 +65,7 @@
   
   <url>
     <loc>http://mermeu.github.io/posts/</loc>
-    <lastmod>2018-11-02T22:58:58+01:00</lastmod>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
