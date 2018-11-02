@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Merijns 2e site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Merijns 2e site</description>
+    <title>Logboek van mijn Proces</title>
+    <link>http://mermeu.github.io/</link>
+    <description>Recent content on Logboek van mijn Proces</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mermeu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://example.org/portfolio/temp/</link>
+      <link>http://mermeu.github.io/portfolio/temp/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/temp/</guid>
+      <guid>http://mermeu.github.io/portfolio/temp/</guid>
       <description>! under construction Ik komt dus in een later stadium iets van een portfolio o.i.d.</description>
     </item>
     
     <item>
       <title>weer een nieuwe test</title>
-      <link>http://example.org/posts/test4/</link>
+      <link>http://mermeu.github.io/posts/test4/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/test4/</guid>
+      <guid>http://mermeu.github.io/posts/test4/</guid>
       <description>Hallo! #Hallo! HALLO!</description>
     </item>
     
     <item>
       <title>Week 2 dag 2</title>
-      <link>http://example.org/posts/week-2-dag-2/</link>
+      <link>http://mermeu.github.io/posts/week-2-dag-2/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/week-2-dag-2/</guid>
+      <guid>http://mermeu.github.io/posts/week-2-dag-2/</guid>
       <description>Weer was ik bijna te laat, hier moet ik echt iets aan gaan doen. Ook merk ik dat ik met bijvoorbeeld bloggen dingen op het laatste moment nog even doe. Dat is wel jammer, want meestal begin ik met goede moed. Het lijkt me waardevol om naast theoretische (en toegepaste) kennis over vormgeving ook hier beter mee te leren omgaan. Dat zeg ik altijd al, maar ik neem me voor om voortaan om 09:00 aanwezig te zijn op de studiodagen.</description>
     </item>
     
     <item>
       <title>Week 2 dag 1</title>
-      <link>http://example.org/posts/week-2-dag-1/</link>
+      <link>http://mermeu.github.io/posts/week-2-dag-1/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/week-2-dag-1/</guid>
+      <guid>http://mermeu.github.io/posts/week-2-dag-1/</guid>
       <description>Bijna te laat, gelukkig op tijd
 Eerst presentatie, vooral belangrijk reacties op het maken van een planning en samenwerking.
 Tips:  maak dingen concreet schrijf ze uit -&amp;gt; hoe voer je het uit? communiceer en hoe het werkbaar weet wat anderen doen, om te voorkomen dat je langs elkaar heen werkt.  Feedback gekregen over team deliverables: SWOT-analyse, taakverdeling en teamafspraken zijn goed Wat beter kan zijn de afspraken over het breken van afspraken: wat doen we dan en hoe doen we dat dan?</description>
@@ -51,47 +51,47 @@ Tips:  maak dingen concreet schrijf ze uit -&amp;gt; hoe voer je het uit? commun
     
     <item>
       <title>Terugblik Week 1</title>
-      <link>http://example.org/posts/terugblik-week-1/</link>
+      <link>http://mermeu.github.io/posts/terugblik-week-1/</link>
       <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/terugblik-week-1/</guid>
+      <guid>http://mermeu.github.io/posts/terugblik-week-1/</guid>
       <description>Pfoe, de eerste week van een nieuwe opleiding. Was wel spannend eigenlijk, zo voor ik echt begonnen was. Maar goed, voelde me wel meteen thuis in het gebouw. De ontspannen, laagdrempelige sfeer; de zooi en tafels overal: inspirerend. Fijn ook, niet allemaal vakken met 1 speficiek thema oid - nee, eigenlijk alles geconcentreerd in de praktijk en de theorie. Ook leuk hoe workshops het curriculum personaliseren: het grootste deel van de lesstof is voor iedereen hetzelfde, maar daarbovenop kun je al student modules stapelen in de vorm van workshops en keuzevakken.</description>
     </item>
     
     <item>
       <title>Halverwege week 1</title>
-      <link>http://example.org/posts/week-1/</link>
+      <link>http://mermeu.github.io/posts/week-1/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/week-1/</guid>
+      <guid>http://mermeu.github.io/posts/week-1/</guid>
       <description>Blegh, regen… Ik wilde liever niet naar school fietsen (de hele tijd regen), dus ik maar wachten thuis tot het droog werd. Werd het niet, ik maar door de regen. Nat de les in, bah, maar ja, niets aan te doen he. Dus maar geluisterd naar de presentatie, die ik me nu al niet meer kan herinneren. En Connor ook niet. Hij weet nog een dia van wat je in moest leveren.</description>
     </item>
     
     <item>
       <title>Hallo wereld!</title>
-      <link>http://example.org/posts/hallo-wereld/</link>
+      <link>http://mermeu.github.io/posts/hallo-wereld/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/hallo-wereld/</guid>
+      <guid>http://mermeu.github.io/posts/hallo-wereld/</guid>
       <description>Oké, dit is dus mijn allereerste post op deze blog en ook mijn allereerste post ooit die ik via Hugo maak. Ik heb op school de opdracht gekregen om een blog op te zetten om de rest van het schooljaar mijn voortgang te kunnen delen.
 Ik weet nog niet precies hoe ik wil dat er uit komt te zien. Ik wil mijn ontwikkeling aan anderen kunnen laten zien, maar nog meer om het voor mezelf zichtbaar te maken.</description>
     </item>
     
     <item>
       <title>Kick off</title>
-      <link>http://example.org/posts/kick-off/</link>
+      <link>http://mermeu.github.io/posts/kick-off/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/kick-off/</guid>
+      <guid>http://mermeu.github.io/posts/kick-off/</guid>
       <description>Ontvangst Nogal chaotisch in zaal, wie is er in mijn klas? Klas gevonden (want ik kende Caitlin, Anne-Fleur, Han en Connor dus) - peercoach volgen: van a naar b tot x, y, z. Veel stoppen, niet echt iets kunnen verstaan want de groep was groot. Wat zeiden ze? Geen idee. Dit heb je hier, dat zit daar. Zoiets van het het zal wel, toch goed opgelet want de quiz kwam en ik heb hem gewoon gewonnen.</description>
     </item>
     
     <item>
       <title>Hoe dan!?</title>
-      <link>http://example.org/posts/test5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>http://mermeu.github.io/posts/test5/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/test5/</guid>
+      <guid>http://mermeu.github.io/posts/test5/</guid>
       <description>How to configure your Hugo site. Hugo uses the config.toml, config.yaml, or config.json (if found in the site root) as the default site config file. The user can choose to override that default with one or more site config files using the command line &amp;ndash;config switch.</description>
     </item>
     

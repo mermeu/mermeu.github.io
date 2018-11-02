@@ -3,78 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/portfolio/temp/</loc>
+    <loc>http://mermeu.github.io/portfolio/temp/</loc>
     <lastmod>2018-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/test4/</loc>
+    <loc>http://mermeu.github.io/posts/test4/</loc>
     <lastmod>2018-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://mermeu.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/week-2-dag-2/</loc>
+    <loc>http://mermeu.github.io/posts/week-2-dag-2/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/week-2-dag-1/</loc>
+    <loc>http://mermeu.github.io/posts/week-2-dag-1/</loc>
     <lastmod>2018-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/terugblik-week-1/</loc>
+    <loc>http://mermeu.github.io/posts/terugblik-week-1/</loc>
     <lastmod>2018-09-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/week-1/</loc>
+    <loc>http://mermeu.github.io/posts/week-1/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/hallo-wereld/</loc>
+    <loc>http://mermeu.github.io/posts/hallo-wereld/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/kick-off/</loc>
+    <loc>http://mermeu.github.io/posts/kick-off/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://mermeu.github.io/posts/test5/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mermeu.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/test5/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
+    <loc>http://mermeu.github.io/</loc>
     <lastmod>2018-11-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/</loc>
+    <loc>http://mermeu.github.io/portfolio/</loc>
     <lastmod>2018-11-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://mermeu.github.io/posts/</loc>
     <lastmod>2018-10-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://mermeu.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
