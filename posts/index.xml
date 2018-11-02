@@ -77,5 +77,14 @@ Ik weet nog niet precies hoe ik wil dat er uit komt te zien. Ik wil mijn ontwikk
       <description>Ontvangst Nogal chaotisch in zaal, wie is er in mijn klas? Klas gevonden (want ik kende Caitlin, Anne-Fleur, Han en Connor dus) - peercoach volgen: van a naar b tot x, y, z. Veel stoppen, niet echt iets kunnen verstaan want de groep was groot. Wat zeiden ze? Geen idee. Dit heb je hier, dat zit daar. Zoiets van het het zal wel, toch goed opgelet want de quiz kwam en ik heb hem gewoon gewonnen.</description>
     </item>
     
+    <item>
+      <title>Hoe dan!?</title>
+      <link>http://example.org/posts/test5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/test5/</guid>
+      <description>How to configure your Hugo site. Hugo uses the config.toml, config.yaml, or config.json (if found in the site root) as the default site config file. The user can choose to override that default with one or more site config files using the command line &amp;ndash;config switch.</description>
+    </item>
+    
   </channel>
 </rss>
